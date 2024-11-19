@@ -1,0 +1,5 @@
+PRINT test
+
+variable = READ {"This is a test read function that attaches to a variable: "}
+
+PRINT variable
